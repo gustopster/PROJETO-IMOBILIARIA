@@ -51,7 +51,7 @@
 #carouselExampleIndicators .carousel-inner:before{
 	position: absolute;
 	content: '';
-	background: rgba(0, 0, 0, 0.50);
+	background: rgba(0, 0, 0, 0);
 	top: 0;
 	left: 0;
 	height: 100%;
@@ -62,7 +62,7 @@
 	position: relative;
 	height: 100%;
 	width:100%;
-	background: url('SERVIÇOS.gif');
+	background: url('serviços.gif');
 	background-size: 100% 100%;
 	background-position: center;
 	background-attachment: fixed;
@@ -72,7 +72,7 @@
 	position: relative;
 	height: 100%;
 	width:100%;
-	background: url('VENDER.gif');
+	background: url('vender.gif');
 	background-size: 100% 100%;
 	background-position: center;
 	background-attachment: fixed;
@@ -82,7 +82,7 @@
 	position: relative;
 	height: 100%;
 	width:100%;
-	background: url('ALUGAR.gif');
+	background: url('alugar.gif');
 	background-size: 100% 100%;
 	background-position: center;
 	background-attachment: fixed;
@@ -91,7 +91,7 @@
 	position: relative;
 	height: 100%;
 	width:100%;
-	background: url('TERRENO.gif');
+	background: url('terrenos.gif');
 	background-size: 100% 100%;
 	background-position: center;
 	background-attachment: fixed;
@@ -100,7 +100,7 @@
 	position: relative;
 	height: 100%;
 	width:100%;
-	background: url('CONSULTORIA.gif');
+	background: url('consultoria.gif');
 	background-size: 100% 100%;
 	background-position: center;
 	background-attachment: fixed;

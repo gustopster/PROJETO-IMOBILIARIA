@@ -62,8 +62,9 @@
 	position: relative;
 	height: 100%;
 	width:100%;
+	margin-top: 5%;
 	background: url('CONTATO1.gif');
-	background-size: 100% 100%;
+	background-size: 100% 70%;
 	background-position: center;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
@@ -72,8 +73,8 @@
 	position: relative;
 	height: 100%;
 	width:100%;
-	background: url('Referencia.gif');
-	background-size: 100% 100%;
+	background: url('CONTATO2.gif');
+	background-size: 100% 70%;
 	background-position: center;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
@@ -81,27 +82,9 @@
 #carouselExampleIndicators .carousel-inner .carousel-item:nth-child(3){
 	position: relative;
 	height: 100%;
-	width:100%;
-	background: url('pesquisaDeMercado.gif');
-	background-size: 100% 100%;
-	background-position: center;
-	background-attachment: fixed;
-	background-repeat: no-repeat;
-}#carouselExampleIndicators .carousel-inner .carousel-item:nth-child(4){
-	position: relative;
-	height: 100%;
-	width:100%;
-	background: url('Criatividade.gif');
-	background-size: 100% 100%;
-	background-position: center;
-	background-attachment: fixed;
-	background-repeat: no-repeat;
-}#carouselExampleIndicators .carousel-inner .carousel-item:nth-child(5){
-	position: relative;
-	height: 100%;
-	width:100%;
-	background: url('Inovação.gif');
-	background-size: 100% 100%;
+	width: 100%;
+	background: url('CONTATO3.gif');
+	background-size: 100% 70%;
 	background-position: center;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
