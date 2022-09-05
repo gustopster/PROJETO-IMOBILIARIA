@@ -62,9 +62,8 @@
 	position: relative;
 	height: 100%;
 	width:100%;
-	margin-top: 5%;
-	background: url('CONTATO1.gif');
-	background-size: 100% 70%;
+	background: url('CONTATO\ 1.png');
+	background-size: 100% 100%;
 	background-position: center;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
@@ -73,8 +72,8 @@
 	position: relative;
 	height: 100%;
 	width:100%;
-	background: url('CONTATO2.gif');
-	background-size: 100% 70%;
+	background: url('CONTATO\ 2.png');
+	background-size: 100% 100%;
 	background-position: center;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
@@ -83,8 +82,8 @@
 	position: relative;
 	height: 100%;
 	width: 100%;
-	background: url('CONTATO3.gif');
-	background-size: 100% 70%;
+	background: url('Contato\ 3.png');
+	background-size: 100% 100%;
 	background-position: center;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
