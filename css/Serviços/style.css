@@ -62,7 +62,7 @@
 	position: relative;
 	height: 100%;
 	width:100%;
-	background: url('serviços.gif');
+	background: url('Serviços.gif');
 	background-size: 100% 100%;
 	background-position: center;
 	background-attachment: fixed;
@@ -72,7 +72,7 @@
 	position: relative;
 	height: 100%;
 	width:100%;
-	background: url('vender.gif');
+	background: url('Vender.png');
 	background-size: 100% 100%;
 	background-position: center;
 	background-attachment: fixed;
@@ -82,7 +82,7 @@
 	position: relative;
 	height: 100%;
 	width:100%;
-	background: url('alugar.gif');
+	background: url('Aluguel.png');
 	background-size: 100% 100%;
 	background-position: center;
 	background-attachment: fixed;
@@ -91,7 +91,7 @@
 	position: relative;
 	height: 100%;
 	width:100%;
-	background: url('terrenos.gif');
+	background: url('Terreno.png');
 	background-size: 100% 100%;
 	background-position: center;
 	background-attachment: fixed;
@@ -100,7 +100,7 @@
 	position: relative;
 	height: 100%;
 	width:100%;
-	background: url('consultoria.gif');
+	background: url('Consultoria.png');
 	background-size: 100% 100%;
 	background-position: center;
 	background-attachment: fixed;
